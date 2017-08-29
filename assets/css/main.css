@@ -3247,7 +3247,8 @@ ffd89b -> 19547b
 		background-color: #ffffff;
 		color: #636363;
 		position: absolute;
-		top: 10em;
+		top: 20em;
+		left: 2em;
 		width: 64em;
 		max-width: calc(100% - 4em);
 		padding: 1em;
