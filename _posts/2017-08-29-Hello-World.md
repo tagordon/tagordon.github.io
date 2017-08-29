@@ -1,6 +1,5 @@
 ---
 date: 2017-08-29
-category: test
 tags: test
 ---
 
