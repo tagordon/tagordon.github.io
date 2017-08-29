@@ -1626,13 +1626,15 @@
 141e30 -> fd746c
 2c3e50 -> 4ca1af
 1d4350 -> a43931
+ffd89b -> 19547b
+
 */
 	body {
 		background-color: #003c49;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #fd746c 85%, #141e30 15%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #fd746c 85%, #141e30 15%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #fd746c 85%, #141e30 15%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #fd746c 85%, #141e30 15%);
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #ffd89b 15%, #19547b 85%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #ffd89b 15%, #19547b 85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #ffd89b 15%, #19547b 85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #ffd89b 15%, #19547b 85%);
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
