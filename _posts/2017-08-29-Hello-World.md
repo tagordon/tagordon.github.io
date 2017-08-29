@@ -1,3 +1,9 @@
+---
+date: 2017-08-29
+category: test
+tags: test
+---
+
 # Hello World
 This is my first blog post on my new Jekyll site. It’s just a test post really. I’m wondering if I can simplify things even further by writing it up in a markdown editor (bear in this case) that will export html. Let’s see how it goes!
 
