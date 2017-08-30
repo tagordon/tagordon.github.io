@@ -6,7 +6,7 @@ title: blog
 <h2>test posts</h2>
 <ul>
   {% for post in site.posts %}
-  {% if tag == test %}
+  {% if post.tag == test %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
@@ -18,7 +18,7 @@ title: blog
 <h2>not test posts</h2>
 <ul>
   {% for post in site.posts %}
-  {% if tag == notest %}
+  {% if post.tag == notest %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
