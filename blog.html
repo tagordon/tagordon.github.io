@@ -7,6 +7,7 @@ title: blog
 <ul>
   {% for post in site.posts %}
   {% for tag in post.tags %}
+  <p>{{ post.tags }}</p>
   {% if tag == test %}
   <p>{{ tag }}</p>
     <li>
