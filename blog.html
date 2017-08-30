@@ -5,9 +5,8 @@ title: blog
 
 <ul>
   {% for post in site.posts %}
-    <li>
-      {{ post.date | date_to_long_string }}
-      <a href="{{ post.url }}">{{ post.excerpt }}</a>
-    </li>
+    {{ post.date | date_to_long_string }}
+    <a href="{{ post.url }}">{{ post.excerpt }}</a>
+    <hr>
   {% endfor %}
 </ul>
