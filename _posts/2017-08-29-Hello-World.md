@@ -21,7 +21,7 @@ Here are some various elements that I want to test out.
 
 Abe and JFK
 
-``` python
+```python
 import numpy as np
 import matplotlib.pyplot as pl
 
