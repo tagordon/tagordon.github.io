@@ -2434,7 +2434,7 @@ ffd89b -> 19547b
 		.image img {
 			border-radius: 8px;
 			display: block;
-			float: right;
+			float: center;
 			max-width: 100%;
 			height: auto;
 		}
