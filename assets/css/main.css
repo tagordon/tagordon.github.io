@@ -2428,6 +2428,7 @@ ffd89b -> 19547b
 		border: 0;
 		display: inline;
 		position: relative;
+		margin: 20px;
 	}
 
 		.image img {
