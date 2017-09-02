@@ -3817,8 +3817,10 @@ ffd89b -> 19547b
 		    display: flex;
 		}
 		.fixed{
-			width: 200px;
+			width: 50%;
+			margin: 50px;
 		}
 		.flex{
 			flex-grow: 1;
+			margin: 50px;
 		}
