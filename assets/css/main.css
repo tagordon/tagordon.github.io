@@ -3813,3 +3813,10 @@ ffd89b -> 19547b
 			}
 
 		}
+
+		.fixed{
+			width: 200px;
+		}
+		.flex{
+			flex-grow: 1;
+		}
