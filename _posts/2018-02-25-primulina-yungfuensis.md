@@ -3,7 +3,7 @@ layout: default
 title: "Primulina yungfuensis"
 date: 2018-02-25
 tag: gesneriads
-img: /images/Primulina_yungfuensis_4.JPG
+img: /images/Primulina_yungfuensis_4_1.jpg
 ---
 
 ## Primulina yungfuensis
