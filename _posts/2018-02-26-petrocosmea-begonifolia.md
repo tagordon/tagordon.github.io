@@ -3,7 +3,7 @@ layout: default
 title: "Petrocosmea begonifolia"
 date: 2018-02-25
 tag: gesneriads
-img: /images/Petrocosmea_begonifolia_1_1.png
+img: /images/Petrocosmea_begonifolia_crop.png
 ---
 
 ## Petrocosmea begonifolia
