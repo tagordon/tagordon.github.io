@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Primulina Yungfuensis"
+title: "Primulina yungfuensis"
 date: 2018-02-25
 tag: gesneriads
 ---
 
-how does this work? 
+![Primulina yungfuensis]({{ "/images/Primulina_yungfuensis_1.JPG" | absolute_url }}) 
