@@ -6,9 +6,9 @@ tag: gesneriads
 img: /images/Primulina_yungfuensis_4.JPG
 ---
 
-# Primulina yungfuensis
+## Primulina yungfuensis
 
 ![Primulina yungfuensis](/images/Primulina_yungfuensis_4.JPG){:width="200"}
 ![Primulina yungfuensis](/images/Primulina_yungfuensis_2.JPG){:width="200"}
 
-Primulina yungfuensis: Primarily grown for foliage, apparently has pale blue or violet flowers. Grown from a cutting in 2017. 
+Primarily grown for foliage, apparently has pale blue or violet flowers. Grown from a cutting in 2017. 
