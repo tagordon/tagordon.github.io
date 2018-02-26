@@ -6,4 +6,4 @@ tag: gesneriads
 ---
 
 Primulina yungfuensis
-![Primulina yungfuensis]( /images/Primulina_yungfuensis_4.JPG | width=100)
+![Primulina yungfuensis](/images/Primulina_yungfuensis_4.JPG){:width="200"}
