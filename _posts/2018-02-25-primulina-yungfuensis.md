@@ -5,4 +5,4 @@ date: 2018-02-25
 tag: gesneriads
 ---
 
-![Primulina yungfuensis]({{ "/images/Primulina_yungfuensis_1.JPG" | absolute_url }} =100x100) 
+<img src="/images/Primulina_yungfuensis.jpg" alt="Primulina yungfuensis" style="width: 200px;"/>
