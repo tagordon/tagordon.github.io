@@ -6,7 +6,7 @@ tag: gesneriads
 img: /images/robs_june_bug_crop.png
 ---
 
-## _Streptocarpus_ sect. _Saintpaulia_ 'Rob's June Bug'
+## _Streptocarpus_  sect.  _Saintpaulia_  'Rob's June Bug'
 
 ![Rob's June Bug](/images/robs_june_bug_1_1.png){:width="200"}
 ![Rob's June Bug](/images/robs_june_bug_2_1.png){:width="200"}
