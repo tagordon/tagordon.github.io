@@ -11,4 +11,4 @@ img: /images/primulina_moonlight_crop.png
 ![Primulina 'Moonlight'](/images/primulina_moonlight_1.png){:width="200"}
 ![Primulina 'Moonlight'](/images/primulina_moonlight_2.png){:width="200"}
 
-Stolen from Bryce in summer 2017. 
+Stolen from Bryce in summer 2017, deceased January 2019. Cause of death: Acute dehydration. 
