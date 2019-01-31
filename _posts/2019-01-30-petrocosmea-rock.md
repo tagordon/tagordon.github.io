@@ -3,7 +3,7 @@ layout: default
 title: "Petrocosmea rock"
 date: 2019-01-30
 tag: gesneriads
-img: /images/petrocosmea_rock2.png
+img: /images/petrocosmea_rock_crop.png
 ---
 
 ## _Petrocosmea rock_
