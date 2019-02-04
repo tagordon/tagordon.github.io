@@ -10,5 +10,7 @@ img: /images/robs_june_bug_crop.png
 
 ![Rob's June Bug](/images/robs_june_bug_1_1.png){:width="200"}
 ![Rob's June Bug](/images/robs_june_bug_2_1.png){:width="200"}
+![Rob's June Bug](/images/robs_junebug.png){:width="200"}
+![Rob's June Bug](/images/robs_junebug2.png){:width="200"}
 
-Microminiature african violet hybrid, obtained in summer 2017. 
+Microminiature african violet hybrid, obtained in summer 2017. Flowered in Feb, 2019. 

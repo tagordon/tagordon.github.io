@@ -10,5 +10,6 @@ img: /images/Primulina_yungfuensis_crop.png
 
 ![Primulina yungfuensis](/images/Primulina_yungfuensis_4_1.png){:width="200"}
 ![Primulina yungfuensis](/images/Primulina_yungfuensis_2_1.png){:width="200"}
+![Primulina yungfuensis](/images/Primulina_yungfuensis_flower_1.png){:width="200"}
 
-Primarily grown for foliage, apparently has pale blue or violet flowers. Grown from a cutting in 2017. 
+Grown from a cutting taken in Fall 2017. Flowered in September 2018. 

@@ -11,4 +11,4 @@ img: /images/robs_dandy_lion_crop.png
 ![Rob's Dandy Lion](/images/robs_dandy_lion_1.png){:width="200"}
 ![Rob's Dandy Lion](/images/robs_dandy_lion_2.png){:width="200"}
 
-Microminiature african violet hybrid, obtained in summer 2017. 
+Microminiature African Violet hybrid from The Violet Barn. Obtained summer 2017. Images of blooms are from January 2019.  

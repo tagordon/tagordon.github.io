@@ -6,9 +6,10 @@ tag: gesneriads
 img: /images/Petrocosmea_begonifolia_crop.png
 ---
 
-## _Petrocosmea begonifolia_
+## _Petrocosmea begoniifolia_
 
 ![Petrocosmea begonifolia](/images/Petrocosmea_begonifolia_1_1.png){:width="200"}
 ![Petrocosmea begonifolia](/images/Petrocosmea_begonifolia_2_1.png){:width="200"}
 
-This Petrocosmea species, like most, is native to China. It has white flowers. Obtained in fall 2017. 
+
+Petrocosmea species native to China. Obtained from The Violet Barn in Fall 2017. 
