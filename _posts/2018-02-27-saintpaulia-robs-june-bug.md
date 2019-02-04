@@ -8,8 +8,6 @@ img: /images/robs_june_bug_crop.png
 
 ## _Streptocarpus_  sect.  _Saintpaulia_  'Rob's June Bug'
 
-![Rob's June Bug](/images/robs_june_bug_1_1.png){:width="200"}
-![Rob's June Bug](/images/robs_june_bug_2_1.png){:width="200"}
 ![Rob's June Bug](/images/robs_junebug.png){:width="200"}
 ![Rob's June Bug](/images/robs_junebug2.png){:width="200"}
 
