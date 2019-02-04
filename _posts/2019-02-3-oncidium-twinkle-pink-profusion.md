@@ -6,7 +6,7 @@ tag: orchids
 img: /images/ondcidium_twinkle_pink_profusion.png
 ---
 
-## _Petrocosmea rock_
+## _Oncidium 'twinkle pink profusion'_
 
 ![Oncidium 'twinkle pink profusion'](/images/ondcidium_twinkle_pink_profusion.png){:width="200"}
 
