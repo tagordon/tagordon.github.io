@@ -121,8 +121,9 @@ input, select, textarea {
 
 		@media screen and (min-width:736px){
 			html { 
-				width: 30rem; 
-				margin: auto; 
+				width: 40rem; 
+				margin: auto;
+				font-size: 14pt; 
 			}
 		}
 
