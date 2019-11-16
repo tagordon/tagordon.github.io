@@ -119,6 +119,13 @@ input, select, textarea {
 		font-size: 18pt;
 	}
 
+		@media screen and (min-width:1280px){
+			html { 
+				margin-right: 10rem;
+				margin-left: 10rem;
+			}
+		}
+
 		@media screen and (max-width: 1680px) {
 
 			html {
