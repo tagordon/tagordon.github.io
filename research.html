@@ -35,30 +35,29 @@
                         understanding of the stars that they orbit. 
                     </p>
                     <p>
-                        <a href="#celerite2d">celerite2d</a>
-                        // <a href="#rotation">stellar rotation</a> 
+                        <a href="#exoplanets">exoplanets and exomoons</a>
+                        // <a href="#stars">stars</a> 
                         // <a href="https://www.tagordon.com">home</a>
                     </p>
                 </div>
             </section>
 
             <section class="wrapper style1 align-left">
-                <div class="inner" id="celerite2d">
-                    <h2>celerite2d</h2>
+                <div class="inner" id="exoplanets">
+                    <h2>exoplanets and exomoons</h2>
                         <p>
-                            We have expanded on the celerite method 
-                            (<a href="https://ui.adsabs.harvard.edu/abs/2017ascl.soft09008F/abstract"> Foreman-Mackey et al., 2017</a>) 
-                            by implementing a 2D version of the code. Among other 
-                            applications, this development allows for modeling 
-                            wavelength-dependent stellar variability. Monitoring 
-                            transits in multiple bands and using celerite2d to 
-                            model the light curves can improve estimates of 
-                            transit parameters by orders of magnitude in 
-                            some cases. 
-                        </p>
+			    I'm interested in improving our ability to detect the smallest exoplanets (and potentially exomoons!) 
+			    in high-precision photometry. I've worked on an extension of the celerite method 
+ 			   (<a href="https://ui.adsabs.harvard.edu/abs/2017ascl.soft09008F/abstract"> Foreman-Mackey et al., 2017</a>) 
+                            to two dimensions in order to model stellar flicker noise in multiple bands. This enables us to do a better 
+			    job of separating the star's noise from the transit signal. 
+                            <br/>
+			    One application of this noise model is to the search for exomoons. I'm currently working to understand the 
+			    capabilities of JWST to search for transiting exomoons, and hoping to publish on that topic soon. 
+			</p>
                         <p>
-                            <a href="https://github.com/tagordon/celerite2d.jl">code</a>
-                            // <a href="#">paper (coming soon)</a> 
+                            <a href="https://github.com/tagordon/specgp">code</a>
+                            // <a href="https://ui.adsabs.harvard.edu/abs/2020AJ....160..240G/abstract">paper</a> 
                         </p>
                 </div>
             </section>
@@ -73,15 +72,14 @@
                             and studying their planets. Because stars 
                             lose angular momentum over time, we can 
                             estimate their ages by measuring their 
-                            rotational periods. I'm currently working 
-                            on a project to accurately measure stellar 
-                            rotation periods for the entire K2. We plan 
-                            to apply our methods to the TESS sample 
-                            in the near future. 
+                            rotational periods. 
+			    I've used a Gaussian processes to  model light curves and  
+			    measure stellar rotation periods for thousands of K2 targets. 
+                            Our sample shows strong evidence of a bimodal period distribution which we interpret as 
+			    indicative of a broken spindown law. 
                         </p>
                         <p>
-                            <a href="https://github.com/tagordon/round">code</a>
-                            // <a href="#">paper (coming soon)</a> 
+                            <a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210107886G/abstract">paper</a> 
                         </p>
                 </div>
             </section>
