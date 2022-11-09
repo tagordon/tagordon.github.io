@@ -35,26 +35,33 @@
                         understanding of the stars that they orbit. 
                     </p>
                     <p>
-                        <a href="#exoplanets">exoplanets and exomoons</a>
-                        // <a href="#stars">stars</a> 
+                        <a href="#exomoons">a mutual transit model</a>
+                        // <a href="#gp">multiband gaussian processes</a>
+                        // <a href="#stars">stellar rotation</a> 
                         // <a href="https://www.tagordon.com">home</a>
                     </p>
                 </div>
             </section>
+            
+            <section class="wrapper style1 align-left">
+                <div class="inner" id="exomoons">
+                    <h2>mutual transits</h2>
+                        <p>
+                            I have developed a new photodynamical transit model for overlapping bodies such as an exoplanet/exomoon pair. This work was a response to a lack of open-source transit models for multiple, potentially overlapping bodies. This model is exact and includes analytic derivatives with respect to all input parameters which makes it suitable for gradient-based inference methods such as Hamiltonian MCMC. It is currently the only exact and differentiable transit code available for modeling exomoon-planet or planet-planet mutual transit events. Applications of this code include searching for exomoon transits and modeling simultaneous planetary transits in coplanar multiplanetary systems. These planet-planet mutual events are important because they allow us to constrain the mutual inclination -- an important parameter for understanding the dynamical history and present-day architecture of these systems.
+                        </p>
+                        <p>
+                            <a href="https://github.com/tagordon/gefera">code</a>
+                            // <a href="https://ui.adsabs.harvard.edu/abs/2022AAS...24041805G/abstract">paper</a> 
+                        </p>
+                </div>
+            </section>
 
             <section class="wrapper style1 align-left">
-                <div class="inner" id="exoplanets">
-                    <h2>exoplanets and exomoons</h2>
+                <div class="inner" id="gp">
+                    <h2>gaussian processes for transiting exoplanets</h2>
                         <p>
-			    I'm interested in improving our ability to detect the smallest exoplanets (and potentially exomoons!) 
-			    in high-precision photometry. I've worked on an extension of the celerite method 
- 			   (<a href="https://ui.adsabs.harvard.edu/abs/2017ascl.soft09008F/abstract"> Foreman-Mackey et al., 2017</a>) 
-                            to two dimensions in order to model stellar flicker noise in multiple bands. This enables us to do a better 
-			    job of separating the star's noise from the transit signal. 
-                            <br/>
-			    One application of this noise model is to the search for exomoons. I'm currently working to understand the 
-			    capabilities of JWST to search for transiting exomoons, and hoping to publish on that topic soon. 
-			</p>
+                            I developed an extension to the celerite algorithm (<a href="https://ui.adsabs.harvard.edu/abs/2017ascl.soft09008F/abstract"> Foreman-Mackey et al., 2017</a>) algorithm which allows for the computation of two-dimensional GPs for certain covariance structures. This method can be used to model stellar variability across multiple wavelength bands, making it a useful noise model for multiband transit lightcurves. This includes spectral time-series from JWST, and multiband lightcurves from future transit missions such as PLATO and Ariel. I demonstrated that the precision of measured transit parameters can be significantly improved by modeling correlations in stellar variability across wavelengths.
+                        </p>
                         <p>
                             <a href="https://github.com/tagordon/specgp">code</a>
                             // <a href="https://ui.adsabs.harvard.edu/abs/2020AJ....160..240G/abstract">paper</a> 
@@ -87,8 +94,6 @@
             <footer class="wrapper style1 align-center">
                 <div class="inner">
                     <ul class="icons">
-                        <li><a href="https://twitter.com/tagordone" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
-                        <li><a href="https://www.instagram.com/tylergordon1/" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
                         <li><a href="https://www.github.com/tagordon/" class="icon brands style2 fa-github"><span class="label">Github</span></a></li>
                         <li><a href="mailto:tagordon@uw.edu" class="icon style2 fa-envelope"><span class="label">Email</span></a></li>
                     </ul>
